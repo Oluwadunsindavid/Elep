@@ -33,7 +33,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className="container mx-auto px-6 sm:px-0 fixed bg-red-500 left-1/2 transform -translate-x-1/2 top-5 z-10">
+    <nav className="container mx-auto px-6 sm:px-0 fixed bg-red500 left-1/2 transform -translate-x-1/2 top-5 z-10">
       <div className="flex items-center justify-between rounded-full bg-white/45 backdrop-blur-[12px] my-5 p-3 md:p-3">
         {/* logo */}
         <Link to="/">

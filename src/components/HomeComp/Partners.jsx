@@ -1,7 +1,6 @@
 import React from "react";
 import opensea from "../../assets/OpenSea logo.svg";
 import skrill from "../../assets/Skrill.svg";
-// import klarna from "../../assets/klarna.svg";
 import klarna from "../../assets/Klarna.svg";
 import discover from "../../assets/Discover.svg";
 import square from "../../assets/Square.svg";
