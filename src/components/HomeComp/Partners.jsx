@@ -3,7 +3,7 @@ import opensea from "../../assets/OpenSea logo.svg";
 import skrill from "../../assets/Skrill.svg";
 import klarna from "../../assets/klarna.svg";
 import discover from "../../assets/Discover.svg";
-import square from "../../assets/square.svg";
+import square from "../../assets/Square.svg";
 
 const Partners = () => {
   return (
