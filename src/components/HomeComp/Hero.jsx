@@ -30,7 +30,7 @@
 
 // 2ND TRIAL
 import React from "react";
-import BGImg from "../../assets/background.jpeg";
+import BGImg from "../../assets/Background.jpeg";
 
 const Hero = () => {
   return (
