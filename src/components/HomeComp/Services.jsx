@@ -1,5 +1,5 @@
 import React from "react";
-import homeReno from "../../assets/Home renovations.svg";
+import homeReno from "../../assets/Home Renovations.svg";
 import IntExt from "../../assets/int&ext.svg";
 import flooring from "../../assets/flooring.svg";
 import ComReno from "../../assets/commercial renovations.svg";
