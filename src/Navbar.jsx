@@ -37,7 +37,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between rounded-full bg-white/45 backdrop-blur-[12px] my-5 p-3 md:p-3">
         {/* logo */}
         <Link to="/">
-          <img className=" h-8 sm:h-10 md:h-8 lg:h-10 ml-6 -mb-1" src={LOGO} />
+          <img className=" h-8 sm:h-10 md:h-8 lg:h-10 ml-3 sm:ml-0" src={LOGO} />
         </Link>
         {/* <h1 className=" ml-6 font-bold text-2xl bg-gradient-to-r bg-clip-text text-transparent text-gradient-to-r from-[#f4a44f] to-[#ac573f]">
           DAVECODES
