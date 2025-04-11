@@ -49,7 +49,7 @@ const Navbar = () => {
           onClick={toggleMenu}
         >
           <svg
-            className="w-6 h-6 text-white hover:cursor-pointer"
+            className="w-6 h-6 text-black hover:cursor-pointer"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -88,7 +88,7 @@ const Navbar = () => {
                 // smooth
                 // spy
                 offset={item.offset}
-                className="menu-item text-black md:text-[11px] lg:text-[15px]"
+                className="menu-item text-white md:text-[11px] lg:text-[15px]"
               >
                 {item.label}
               </Link>

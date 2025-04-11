@@ -13,7 +13,7 @@ const Hero = () => {
           Warranty
         </Link>
       </div>
-      <p className="text-center text-9xl mb-60 mt-40">LOADING...</p>
+      <p className="text-center text-5xl md:text-9xl mb-60 mt-40">LOADING...</p>
     </div>
   );
 };
