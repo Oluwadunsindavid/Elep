@@ -41,12 +41,12 @@ const History = () => {
         Growing with Dedication and Excellence
       </h2>
       <div className=" bg-lime-00 text-white space-y6 w-full sm:max-w-[80%] md:max-w-[90%] mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-wxl mx-auto">
+        <div className="grid grid-cols-1 p-4 md:grid-cols-2 lg:grid-cols-3 gap-6 max-wxl mx-auto">
           {timelineData.map((item, index) => (
             // col-span to extend the last div to 2 spaces
             <div
               key={index}
-              className={`flex bg[#0C0C0D]/100 bg-white/10 rounded-2xl p-3 sm:p-6 max-w-full items-center mx-auto ${
+              className={`flex bg-white/10 rounded-2xl p-3 sm:p-6 max-w-full items-center mx-auto ${
                 index === timelineData.length - 1 ? "md:col-span-2" : ""
               }`}
             >
