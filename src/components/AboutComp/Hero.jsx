@@ -13,7 +13,7 @@ const Hero = () => {
     },
     {
       h2: "Our Mission",
-      para: "      At Elephant Solutions, our mission is to deliver outstanding craftsmanship with a focus on customer satisfaction and quality. We believe in creating lasting relationships with our clients by providing services that are timely, transparent, and tailored to each client's vision. We strive for excellence in everything we do, ensuring each project is completed on time and to the highest standard.",
+      para: "At Elephant Solutions, our mission is to deliver outstanding craftsmanship with a focus on customer satisfaction and quality. We believe in creating lasting relationships with our clients by providing services that are timely, transparent, and tailored to each client's vision. We strive for excellence in everything we do, ensuring each project is completed on time and to the highest standard.",
     },
   ];
 

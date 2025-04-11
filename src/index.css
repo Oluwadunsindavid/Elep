@@ -3,7 +3,7 @@
 @theme {
   --breakpoint-2xl: 400px;
   /* Created bcz of History section */
-  --breakpoint-hi: 500px
+  /* --breakpoint-hi: 500px */
   --color-primary: #2b7da0;
 }
 
