@@ -88,7 +88,7 @@ const Navbar = () => {
                 // smooth
                 // spy
                 offset={item.offset}
-                className="menu-item text-white md:text-[11px] lg:text-[15px]"
+                className="menu-item text-white md:text-black md:text-[11px] lg:text-[15px]"
               >
                 {item.label}
               </Link>
